@@ -16,5 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 ...for work offline to diff and merge without needing online status
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+...stay out of each outhers way.  Knowing whats changed and communication.
 
